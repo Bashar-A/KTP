@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8f8d00-48d4-4c03-b0e3-1db4cf12b3e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YngP62ljA0pn1MGn6ukxY80X2U" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_241" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Palindrome" />
+      <module name="Laba1-Java-Palindrome" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8f8d00-48d4-4c03-b0e3-1db4cf12b3e7" name="Default Changelist" comment="" />
+      <created>1583583744644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583583744644</updated>
+      <workItem from="1583583747432" duration="3004000" />
+      <workItem from="1583587325973" duration="159000" />
+      <workItem from="1583587586963" duration="229000" />
+      <workItem from="1583587838803" duration="20000" />
+      <workItem from="1583587992963" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1583587813445">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583587813445" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583587802804">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583587802804" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1583587856241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583587856241" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1583588379392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583588379392" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1583588379392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583588379392" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1583588379384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583588379384" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1583588379392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583588379392" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1583587841982">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583587841982" />
+    <state x="342" y="160" key="new project wizard" timestamp="1583588377400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/0.0.1920.1080/1920.177.1366.768@0.0.1920.1080" timestamp="1583588377400" />
+  </component>
+</project>
