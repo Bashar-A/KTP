@@ -8,7 +8,7 @@ public class Task3 {
     }
     public static int findZip(String string){
         string = string.replaceFirst("zip", "");
-        if(string.contains("zip"))return string.indexOf("zip");
+        if(string.contains("zip"))return string.indexOf("zip") + 3;
         return -1;
     }
     public static boolean checkPerfect(int n){
