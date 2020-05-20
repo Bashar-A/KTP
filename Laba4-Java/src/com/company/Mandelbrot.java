@@ -18,12 +18,14 @@ public class Mandelbrot extends FractalGenerator {
         int iteraion = 0;
         double x1 = 0;
         double y1 = 0;
-        while ((x1*x1 + y1*y1 < 4)){
-            x1 = x1*x1 - y1*y1 + x;
-            y1 = 2*x1*y1 + y;
+        while (x1*x1 + y1*y1 < 4 && iteraion < MAX_ITERATIONS) {
+            double temp1 = x1 * x1 - y1 * y1 + x;
+            double temp2 = 2 * x1 * y1 + y;
+            x1 = temp1;
+            y1 = temp2;
             iteraion++;
-            if (iteraion >= MAX_ITERATIONS)return -1;
         }
+        if (iteraion >= MAX_ITERATIONS)return -1;
         return iteraion;
     }
 }
