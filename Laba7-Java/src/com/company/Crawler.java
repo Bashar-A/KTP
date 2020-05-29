@@ -6,7 +6,7 @@ import java.util.*;
 
 public class Crawler {
     public static final String URL_INDICATOR = "a href=\"";
-    public static final String URL_ENDING = "\">";
+    public static final String URL_ENDING = "\"";
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -115,6 +115,7 @@ public class Crawler {
             while (true){
                 beginIndex = string.indexOf(URL_INDICATOR,beginIndex);
                 if(beginIndex == -1)break;
+                if(string.contains("https://"))break;
                 beginIndex += URL_INDICATOR.length();
                 endIndex = string.indexOf(URL_ENDING, beginIndex);
                 URLs.add(string.substring(beginIndex,endIndex));
