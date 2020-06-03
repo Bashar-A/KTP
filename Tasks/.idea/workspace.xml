@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6804961-6ffb-4801-8343-d94aa8cd8611" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aibfZMuKWe0IiA4QthL99hFBky" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -68,32 +71,90 @@
       <workItem from="1587221470850" duration="1163000" />
       <workItem from="1587223335932" duration="3476000" />
       <workItem from="1587296099566" duration="4374000" />
+      <workItem from="1591177281152" duration="7251000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Projects/KTP/Tasks" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="928" height="283" key="GridCell.Tab.0.bottom" timestamp="1587300505925">
+    <state width="914" height="351" key="GridCell.Tab.0.bottom" timestamp="1591184992044">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="914" height="351" key="GridCell.Tab.0.bottom/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992044" />
     <state width="928" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587300505925" />
-    <state width="928" height="283" key="GridCell.Tab.0.center" timestamp="1587300505925">
+    <state width="914" height="351" key="GridCell.Tab.0.center" timestamp="1591184992043">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="914" height="351" key="GridCell.Tab.0.center/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992043" />
     <state width="928" height="283" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587300505925" />
-    <state width="928" height="283" key="GridCell.Tab.0.left" timestamp="1587300505925">
+    <state width="914" height="351" key="GridCell.Tab.0.left" timestamp="1591184992043">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="914" height="351" key="GridCell.Tab.0.left/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992043" />
     <state width="928" height="283" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587300505925" />
-    <state width="928" height="283" key="GridCell.Tab.0.right" timestamp="1587300505925">
+    <state width="914" height="351" key="GridCell.Tab.0.right" timestamp="1591184992043">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="914" height="351" key="GridCell.Tab.0.right/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992043" />
     <state width="928" height="283" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587300505925" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1587296098199">
+    <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1591184992044">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="914" height="351" key="GridCell.Tab.1.bottom/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992044" />
+    <state width="914" height="351" key="GridCell.Tab.1.center" timestamp="1591184992044">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.center/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992044" />
+    <state width="914" height="351" key="GridCell.Tab.1.left" timestamp="1591184992044">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.left/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992044" />
+    <state width="914" height="351" key="GridCell.Tab.1.right" timestamp="1591184992044">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.right/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591184992044" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1591177303073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591177303073" />
     <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587296098199" />
     <state x="210" y="294" key="extract.method.dialog" timestamp="1587298135879">
       <screen x="0" y="0" width="1920" height="1050" />
