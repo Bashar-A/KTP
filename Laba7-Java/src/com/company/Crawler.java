@@ -99,7 +99,8 @@ public class Crawler {
             System.out.println("IOException: " + e.getMessage());
             return URLs;
         }
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+        InputStreamReader in = new InputStreamReader (inputStream);
+        BufferedReader reader = new BufferedReader(in);
         while (true){
             String string;
             int beginIndex = 0;
@@ -118,7 +119,9 @@ public class Crawler {
                 if(string.contains("https://"))break;
                 beginIndex += URL_INDICATOR.length();
                 endIndex = string.indexOf(URL_ENDING, beginIndex);
-                URLs.add(string.substring(beginIndex,endIndex));
+                String temp = string.substring(beginIndex,endIndex);
+                if(!temp.contains("http"))temp = "http://" + pair.getHost() + temp;
+                URLs.add(temp);
                 beginIndex = endIndex;
             }
         }
