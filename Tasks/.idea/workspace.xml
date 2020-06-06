@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6804961-6ffb-4801-8343-d94aa8cd8611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -74,6 +74,7 @@
       <workItem from="1591177281152" duration="7251000" />
       <workItem from="1591185111499" duration="706000" />
       <workItem from="1591456250040" duration="7244000" />
+      <workItem from="1591464565686" duration="26000" />
     </task>
     <servers />
   </component>
@@ -155,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1050" height="351" key="GridCell.Tab.1.right/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591463507239" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1591456248926">
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1591464571281">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591456248926" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591464571281" />
     <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587296098199" />
     <state x="210" y="294" key="extract.method.dialog" timestamp="1591460375405">
       <screen x="0" y="0" width="1920" height="1050" />
